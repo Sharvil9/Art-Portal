@@ -1,4 +1,4 @@
 # Art-Portal
 Landing page that you should definitely checkout!
 
-!https://github.com/Sharvil9/Art-Portal/blob/e6019d24ef69a850d7ff2d3adfe09c94bcf369fa/Landing%20Page/assets/images/release.png
+![release](https://github.com/Sharvil9/Art-Portal/assets/92010337/3fd7edc0-fecb-47c9-84d5-f3954e3821c3)
