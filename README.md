@@ -1,2 +1,2 @@
 # Art-Portal
-Landing page tha you should definitely checkout!
+Landing page that you should definitely checkout!
